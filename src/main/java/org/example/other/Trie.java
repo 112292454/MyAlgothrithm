@@ -1,4 +1,4 @@
-package org.example.whole;
+package org.example.other;
 
 import java.util.ArrayList;
 import java.util.List;
